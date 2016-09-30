@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: b75c63c426027864db72a5500afcb1eb
+timeCreated: 1459608201
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GARAGE_BASE
+    100004: GARAGE_DECALS
+    100006: GARAGE_FIRE_SAFETY
+    100008: GARAGE_FURNITURE
+    100010: GARAGE_TIRES
+    100012: GARAGE_TOOLBOX
+    100014: GARAGE_TOOLS
+    400000: //RootNode
+    400002: GARAGE_BASE
+    400004: GARAGE_DECALS
+    400006: GARAGE_FIRE_SAFETY
+    400008: GARAGE_FURNITURE
+    400010: GARAGE_TIRES
+    400012: GARAGE_TOOLBOX
+    400014: GARAGE_TOOLS
+    2300000: GARAGE_BASE
+    2300002: GARAGE_DECALS
+    2300004: GARAGE_FIRE_SAFETY
+    2300006: GARAGE_FURNITURE
+    2300008: GARAGE_TIRES
+    2300010: GARAGE_TOOLBOX
+    2300012: GARAGE_TOOLS
+    3300000: GARAGE_BASE
+    3300002: GARAGE_DECALS
+    3300004: GARAGE_FIRE_SAFETY
+    3300006: GARAGE_FURNITURE
+    3300008: GARAGE_TIRES
+    3300010: GARAGE_TOOLBOX
+    3300012: GARAGE_TOOLS
+    4300000: GARAGE_BASE
+    4300002: GARAGE_DECALS
+    4300004: GARAGE_FIRE_SAFETY
+    4300006: GARAGE_FURNITURE
+    4300008: GARAGE_TIRES
+    4300010: GARAGE_TOOLBOX
+    4300012: GARAGE_TOOLS
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
